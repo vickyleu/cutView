@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme">
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+    </style>
+
+    <!--<style name="Widget.SeekBar.Normal">-->
+        <!--<item name="android:maxHeight">3dp</item>-->
+        <!--<item name="android:indeterminateOnly">false</item>-->
+        <!--<item name="android:indeterminateDrawable">-->
+            <!--@android:drawable/progress_indeterminate_horizontal-->
+        <!--</item>-->
+        <!--<item name="android:progressDrawable">@drawable/seekbar_horizontal</item>-->
+        <!--<item name="android:minHeight">3dp</item>-->
+        <!--<item name="android:thumb">@drawable/seek_thumb</item>-->
+        <!--<item name="android:thumbOffset">5dp</item>-->
+    <!--</style>-->
+
+    <!--<style name="Widget.Support.CoordinatorLayout">-->
+        <!--<item name="statusBarBackground">#000000</item>-->
+    <!--</style>-->
+</resources>

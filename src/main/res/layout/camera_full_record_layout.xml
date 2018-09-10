@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical">
+
+    <com.lansosdk.videoeditor.DrawPadCameraView
+        android:id="@+id/id_fullrecord_padview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <RelativeLayout
+        android:id="@+id/id_layout_videophoto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <com.example.lansongcommonui.view.MyVideoView
+            android:id="@+id/vv_play"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:visibility="gone" />
+
+        <ImageView
+            android:id="@+id/iv_photo"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scaleType="centerCrop"
+            android:visibility="gone" />
+    </RelativeLayout>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <com.example.lansongcommonui.view.FocusImageView
+            android:id="@+id/id_fullrecord_focusview"
+            android:layout_width="75dp"
+            android:layout_height="75dp" />
+    </FrameLayout>
+
+    <RelativeLayout
+        android:id="@+id/rl_top"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:id="@+id/iv_change_flash"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_margin="7dp"
+            android:padding="8dp"
+            android:src="@mipmap/video_flash_close" />
+
+        <ImageView
+            android:id="@+id/iv_change_camera"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_alignParentRight="true"
+            android:layout_margin="7dp"
+            android:padding="8dp"
+            android:src="@mipmap/video_camera" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/rl_bottom"
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="20dp"
+        android:gravity="center_vertical"
+        android:visibility="gone">
+
+        <ImageView
+            android:id="@+id/iv_recorddelete"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_marginLeft="30dp"
+            android:background="@drawable/rotia"
+            android:padding="15dp"
+            android:src="@mipmap/video_close" />
+
+
+        <ImageView
+            android:id="@+id/iv_recordfinish"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="30dp"
+            android:background="@drawable/rotia"
+            android:padding="15dp"
+            android:src="@mipmap/record_ok" />
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/tv_hint"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="150dp"
+        android:text="点击拍照, 长按录制"
+        android:textColor="#fff"
+        android:textSize="18sp" />
+
+    <RelativeLayout
+        android:id="@+id/id_record_layout"
+        android:layout_width="match_parent"
+        android:layout_height="180dp"
+        android:layout_alignParentBottom="true"
+        android:paddingBottom="20dp">
+
+        <ImageView
+            android:id="@+id/iv_back"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="50dp"
+            android:background="@drawable/rotia"
+            android:src="@mipmap/back2" />
+
+        <com.example.lansongcommonui.view.RecordedButton
+            android:id="@+id/rb_start"
+            android:layout_width="100dp"
+            android:layout_height="120dp"
+            android:layout_centerInParent="true" />
+    </RelativeLayout>
+
+    <include layout="@layout/merge_cameabeauty_control" />
+</RelativeLayout>

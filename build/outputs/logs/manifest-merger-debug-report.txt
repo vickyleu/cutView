@@ -1,0 +1,193 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Administrator\Desktop\cutView\src\main\AndroidManifest.xml:2:1-54:12
+INJECTED from C:\Users\Administrator\Desktop\cutView\src\main\AndroidManifest.xml:2:1-54:12
+INJECTED from C:\Users\Administrator\Desktop\cutView\src\main\AndroidManifest.xml:2:1-54:12
+INJECTED from C:\Users\Administrator\Desktop\cutView\src\main\AndroidManifest.xml:2:1-54:12
+MERGED from [com.anthonycr.grant:permissions:1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\permissions-1.0.aar\cf4ce477ad540174d57b15ddbd1d1e55\AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:support-v13:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v13-27.1.1.aar\b774c5a4ec8eb33eb555a9ddd047cd58\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\876e038f6a0a46c6d0f867f930acaa1b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\ebf1c29febc3a290df7a250979ce0ff5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\28c239edf41f12a3f46e99d58cbb0dcf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\e0963918166ff31f60babf34bcc8d0e9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\932a2a7415c7b8d6d916c724f0b63e46\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\308635d5d9d0b2bfe45c02250e48e8b6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\b0470537165dae4a0ad18b319142d22d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\a1ad957cc22890861bfd69f2249dc876\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\7fab4834449e11b4ee983e2ca8d51572\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\adfee82061fda8600c83112a2a7d9cac\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\e00a1d1b8dbd07674dc8f1bd339bce1a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\3550bd3d28df44186e9af74ea932838b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\cb7c824f9ea0203f90da1dcc6121e378\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\e4291e96863daa2e579908fd6be1ceee\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\5ee554c35231d2adac2492d0bef5aa41\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\0d2de40540bbfc7167ce0cfacc17ab58\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Administrator\Desktop\cutView\src\main\AndroidManifest.xml:2:1-54:12
+INJECTED from C:\Users\Administrator\Desktop\cutView\src\main\AndroidManifest.xml:2:1-54:12
+INJECTED from C:\Users\Administrator\Desktop\cutView\src\main\AndroidManifest.xml:2:1-54:12
+	package
+		ADDED from C:\Users\Administrator\Desktop\cutView\src\main\AndroidManifest.xml:3:5-40
+		INJECTED from C:\Users\Administrator\Desktop\cutView\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Administrator\Desktop\cutView\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\Administrator\Desktop\cutView\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\Administrator\Desktop\cutView\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Administrator\Desktop\cutView\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Administrator\Desktop\cutView\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\Administrator\Desktop\cutView\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\Administrator\Desktop\cutView\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Administrator\Desktop\cutView\src\main\AndroidManifest.xml
+uses-feature#android.hardware.camera
+ADDED from C:\Users\Administrator\Desktop\cutView\src\main\AndroidManifest.xml:9:5-60
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\cutView\src\main\AndroidManifest.xml:9:19-57
+uses-feature#android.hardware.autofocus
+ADDED from C:\Users\Administrator\Desktop\cutView\src\main\AndroidManifest.xml:10:5-63
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\cutView\src\main\AndroidManifest.xml:10:19-60
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\Administrator\Desktop\cutView\src\main\AndroidManifest.xml:12:5-65
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\cutView\src\main\AndroidManifest.xml:12:22-62
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\Administrator\Desktop\cutView\src\main\AndroidManifest.xml:13:5-68
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\cutView\src\main\AndroidManifest.xml:13:22-65
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\Users\Administrator\Desktop\cutView\src\main\AndroidManifest.xml:14:5-71
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\cutView\src\main\AndroidManifest.xml:14:22-68
+uses-permission#android.permission.RECORD_VIDEO
+ADDED from C:\Users\Administrator\Desktop\cutView\src\main\AndroidManifest.xml:15:5-71
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\cutView\src\main\AndroidManifest.xml:15:22-68
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\Administrator\Desktop\cutView\src\main\AndroidManifest.xml:16:5-80
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\cutView\src\main\AndroidManifest.xml:16:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Administrator\Desktop\cutView\src\main\AndroidManifest.xml:17:5-81
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\cutView\src\main\AndroidManifest.xml:17:22-78
+uses-permission#android.permission.FLASHLIGHT
+ADDED from C:\Users\Administrator\Desktop\cutView\src\main\AndroidManifest.xml:18:5-69
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\cutView\src\main\AndroidManifest.xml:18:22-66
+permission#android.permission.FLASHLIGHT
+ADDED from C:\Users\Administrator\Desktop\cutView\src\main\AndroidManifest.xml:20:5-23:44
+	android:protectionLevel
+		ADDED from C:\Users\Administrator\Desktop\cutView\src\main\AndroidManifest.xml:23:9-41
+	android:permissionGroup
+		ADDED from C:\Users\Administrator\Desktop\cutView\src\main\AndroidManifest.xml:22:9-77
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\cutView\src\main\AndroidManifest.xml:21:9-53
+uses-feature#android.hardware.camera.front
+ADDED from C:\Users\Administrator\Desktop\cutView\src\main\AndroidManifest.xml:26:5-28:36
+	android:required
+		ADDED from C:\Users\Administrator\Desktop\cutView\src\main\AndroidManifest.xml:28:9-33
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\cutView\src\main\AndroidManifest.xml:27:9-53
+application
+ADDED from C:\Users\Administrator\Desktop\cutView\src\main\AndroidManifest.xml:30:5-53:19
+	android:supportsRtl
+		ADDED from C:\Users\Administrator\Desktop\cutView\src\main\AndroidManifest.xml:36:9-35
+	android:label
+		ADDED from C:\Users\Administrator\Desktop\cutView\src\main\AndroidManifest.xml:34:9-41
+	android:appComponentFactory
+		ADDED from C:\Users\Administrator\Desktop\cutView\src\main\AndroidManifest.xml:32:9-82
+	android:roundIcon
+		ADDED from C:\Users\Administrator\Desktop\cutView\src\main\AndroidManifest.xml:35:9-54
+	android:icon
+		ADDED from C:\Users\Administrator\Desktop\cutView\src\main\AndroidManifest.xml:33:9-43
+	android:allowBackup
+		ADDED from C:\Users\Administrator\Desktop\cutView\src\main\AndroidManifest.xml:31:9-35
+	android:theme
+		ADDED from C:\Users\Administrator\Desktop\cutView\src\main\AndroidManifest.xml:37:9-40
+activity#com.example.lansongcommonui.MainActivity
+ADDED from C:\Users\Administrator\Desktop\cutView\src\main\AndroidManifest.xml:38:9-43:20
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\cutView\src\main\AndroidManifest.xml:38:19-74
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Administrator\Desktop\cutView\src\main\AndroidManifest.xml:39:13-42:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Administrator\Desktop\cutView\src\main\AndroidManifest.xml:40:17-69
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\cutView\src\main\AndroidManifest.xml:40:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Administrator\Desktop\cutView\src\main\AndroidManifest.xml:41:17-77
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\cutView\src\main\AndroidManifest.xml:41:27-74
+activity#com.example.lansongcommonui.CameraRecordActivity
+ADDED from C:\Users\Administrator\Desktop\cutView\src\main\AndroidManifest.xml:44:9-47:74
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Desktop\cutView\src\main\AndroidManifest.xml:46:13-49
+	android:theme
+		ADDED from C:\Users\Administrator\Desktop\cutView\src\main\AndroidManifest.xml:47:13-71
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\cutView\src\main\AndroidManifest.xml:45:13-76
+activity#com.example.lansongcommonui.EditVideoActivity
+ADDED from C:\Users\Administrator\Desktop\cutView\src\main\AndroidManifest.xml:48:9-50:59
+	android:windowSoftInputMode
+		ADDED from C:\Users\Administrator\Desktop\cutView\src\main\AndroidManifest.xml:50:13-56
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\cutView\src\main\AndroidManifest.xml:49:13-73
+activity#com.example.lansongcommonui.CropVideoFrameActivity
+ADDED from C:\Users\Administrator\Desktop\cutView\src\main\AndroidManifest.xml:51:9-87
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\cutView\src\main\AndroidManifest.xml:51:19-84
+activity#com.example.lansongcommonui.CutVideoTimeActivity
+ADDED from C:\Users\Administrator\Desktop\cutView\src\main\AndroidManifest.xml:52:9-85
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\cutView\src\main\AndroidManifest.xml:52:19-82
+uses-sdk
+INJECTED from C:\Users\Administrator\Desktop\cutView\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Administrator\Desktop\cutView\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Administrator\Desktop\cutView\src\main\AndroidManifest.xml
+MERGED from [com.anthonycr.grant:permissions:1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\permissions-1.0.aar\cf4ce477ad540174d57b15ddbd1d1e55\AndroidManifest.xml:8:5-10:41
+MERGED from [com.anthonycr.grant:permissions:1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\permissions-1.0.aar\cf4ce477ad540174d57b15ddbd1d1e55\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:support-v13:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v13-27.1.1.aar\b774c5a4ec8eb33eb555a9ddd047cd58\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v13-27.1.1.aar\b774c5a4ec8eb33eb555a9ddd047cd58\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\876e038f6a0a46c6d0f867f930acaa1b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\876e038f6a0a46c6d0f867f930acaa1b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\ebf1c29febc3a290df7a250979ce0ff5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\ebf1c29febc3a290df7a250979ce0ff5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\28c239edf41f12a3f46e99d58cbb0dcf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\28c239edf41f12a3f46e99d58cbb0dcf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\e0963918166ff31f60babf34bcc8d0e9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\e0963918166ff31f60babf34bcc8d0e9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\932a2a7415c7b8d6d916c724f0b63e46\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\932a2a7415c7b8d6d916c724f0b63e46\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\308635d5d9d0b2bfe45c02250e48e8b6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\308635d5d9d0b2bfe45c02250e48e8b6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\b0470537165dae4a0ad18b319142d22d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\b0470537165dae4a0ad18b319142d22d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\a1ad957cc22890861bfd69f2249dc876\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\a1ad957cc22890861bfd69f2249dc876\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\7fab4834449e11b4ee983e2ca8d51572\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\7fab4834449e11b4ee983e2ca8d51572\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\adfee82061fda8600c83112a2a7d9cac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\adfee82061fda8600c83112a2a7d9cac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\e00a1d1b8dbd07674dc8f1bd339bce1a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\e00a1d1b8dbd07674dc8f1bd339bce1a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\3550bd3d28df44186e9af74ea932838b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\3550bd3d28df44186e9af74ea932838b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\cb7c824f9ea0203f90da1dcc6121e378\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\cb7c824f9ea0203f90da1dcc6121e378\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\e4291e96863daa2e579908fd6be1ceee\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\e4291e96863daa2e579908fd6be1ceee\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\5ee554c35231d2adac2492d0bef5aa41\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\5ee554c35231d2adac2492d0bef5aa41\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\0d2de40540bbfc7167ce0cfacc17ab58\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\0d2de40540bbfc7167ce0cfacc17ab58\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Administrator\Desktop\cutView\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Administrator\Desktop\cutView\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Administrator\Desktop\cutView\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Administrator\Desktop\cutView\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Administrator\Desktop\cutView\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Administrator\Desktop\cutView\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Administrator\Desktop\cutView\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Administrator\Desktop\cutView\src\main\AndroidManifest.xml
